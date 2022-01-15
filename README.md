@@ -1,48 +1,37 @@
-### Hi there 👋
+## Languages and Tools/Platforms 
+----
 
-My name is Kate     
-And I am a student of the Faculty of Information Technology     
-I love writing code in JavaScript  
-Linux OS fan      
-
-### Languages and Tools:
-[![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](#)
-[![TYPESCRIPT](https://img.shields.io/badge/Typescript-grey.svg?style=for-the-badge&logo=typescript)](#)
-[![REACTJS](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=React&logoColor=6296CC)](#)
-[![ELECTRONJS](https://img.shields.io/badge/electron-grey.svg?style=for-the-badge&logo=electron)](#)
-[![EXPRESSJS](https://img.shields.io/badge/express-grey.svg?style=for-the-badge&logo=express)](#)
-[![NODEJS](https://img.shields.io/badge/NodeJS-grey.svg?style=for-the-badge&logo=Node.js)](#)
-[![MONGODB](https://img.shields.io/badge/MongoDB-grey.svg?style=for-the-badge&logo=mongodb)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-grey.svg?style=for-the-badge&logo=HTML5)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-grey.svg?style=for-the-badge&logo=CSS3)](#)
+[![](https://img.shields.io/badge/Lua-grey.svg?style=for-the-badge&logo=lua)](#)
+[![](https://img.shields.io/badge/Javascript-grey.svg?style=for-the-badge&logo=javascript)](#)
+[![](https://img.shields.io/badge/Typescript-grey.svg?style=for-the-badge&logo=typescript)](#)
+[![](https://img.shields.io/badge/electron-grey.svg?style=for-the-badge&logo=electron)](#)
+[![](https://img.shields.io/badge/ReactJS-grey.svg?style=for-the-badge&logo=react)](#)
+[![](https://img.shields.io/badge/MySQl-grey.svg?style=for-the-badge&logo=mysql)](#)
+[![](https://img.shields.io/badge/HTML5-grey.svg?style=for-the-badge&logo=HTML5)](#)
+[![](https://img.shields.io/badge/CSS3-grey.svg?style=for-the-badge&logo=CSS3)](#)
 [![](https://img.shields.io/badge/styled--components-grey.svg?style=for-the-badge&logo=styled-components)](#)
-[![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](#)
-[![MYSQL](https://img.shields.io/badge/-Sql-grey?style=for-the-badge&logo=Mysql&logoColor=6296CC)](#)
-[![GIT](https://img.shields.io/badge/Git-grey.svg?style=for-the-badge&logo=Git)](#)
-[![LINUX](https://img.shields.io/badge/linux-grey.svg?style=for-the-badge&logo=Linux)](#)
-[![GITHUB](https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=Github)](#)
-[![VSCODE](https://img.shields.io/badge/VSCode-grey.svg?style=for-the-badge&logo=VisualStudioCode)](#)
+[![](https://img.shields.io/badge/NodeJS-grey.svg?style=for-the-badge&logo=Node.js)](#)
+[![](https://img.shields.io/badge/MongoDB-grey.svg?style=for-the-badge&logo=mongodb)](#)
+[![](https://img.shields.io/badge/Win-grey.svg?style=for-the-badge&logo=Windows)](#)
+[![](https://img.shields.io/badge/linux-grey.svg?style=for-the-badge&logo=Linux)](#)
+[![](https://img.shields.io/badge/Git-grey.svg?style=for-the-badge&logo=Git)](#)
+[![](https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=Github)](#)
+[![](https://img.shields.io/badge/VSCode-grey.svg?style=for-the-badge&logo=VisualStudioCode)](#)
 <br />
 
 ----
-<a href="https://github.com/Hitomizavr">
-  <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hitomizavr&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hitomizavr&layout=compact&theme=nord" />
+<a href="https://github.com/Santagain">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Santagain&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Santagain&layout=compact&theme=nord" />
 </a>
 
-![animation](https://github.com/Hitomizavr/Hitomizavr/blob/main/github-contribution.svg)
+![Snake animation](https://github.com/Santagain/Santagain/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**Hitomizavr/Hitomizavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  
+  <img width="75" height="20" src="https://komarev.com/ghpvc/?username=Santagain&color=blue&style=flat-square&label=Views">
+  
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://#
