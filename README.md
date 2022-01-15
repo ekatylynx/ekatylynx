@@ -30,7 +30,7 @@ Linux OS fan
   <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hitomizavr&layout=compact&theme=nord" />
 </a>
 
-![animation](https://github.com/Hitomizavr/Hitomizavr/blob/output/github-contribution-grid-snake.svg)
+![animation](https://github.com/Hitomizavr/Hitomizavr/blob/main/github-contribution.svg)
 
 <!--
 **Hitomizavr/Hitomizavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
