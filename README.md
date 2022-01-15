@@ -7,7 +7,7 @@ Linux OS fan
 
 ### Languages and Tools:
 [![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](#)
-[![TYPESCRIPT](https://img.shields.io/badge/Typescript-grey.svg?style=for-the-badge&logo=typescript)]](#)
+[![TYPESCRIPT](https://img.shields.io/badge/Typescript-grey.svg?style=for-the-badge&logo=typescript)](#)
 [![REACTJS](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=React&logoColor=6296CC)](#)
 [![ELECTRONJS](https://img.shields.io/badge/electron-grey.svg?style=for-the-badge&logo=electron)](#)
 [![EXPRESSJS](https://img.shields.io/badge/express-grey.svg?style=for-the-badge&logo=express)](#)
