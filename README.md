@@ -2,8 +2,8 @@
 
 ----
 <a href="https://github.com/Santagain">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Santagain&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Santagain&layout=compact&theme=nord" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hitomizavr&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hitomizavr&layout=compact&theme=nord" />
 </a>
 
 <!--
