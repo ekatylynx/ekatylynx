@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Kate     
-And I am a student of the Faculty of Information Technology     
+Student of the Faculty of Information Technology     
 I love writing code in JavaScript  
 Linux OS fan      
 
