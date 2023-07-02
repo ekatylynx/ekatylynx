@@ -16,7 +16,6 @@ Linux OS fan
 [![HTML5](https://img.shields.io/badge/HTML5-grey.svg?style=for-the-badge&logo=HTML5)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-grey.svg?style=for-the-badge&logo=CSS3)](#)
 [![](https://img.shields.io/badge/styled--components-grey.svg?style=for-the-badge&logo=styled-components)](#)
-[![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](#)
 [![MYSQL](https://img.shields.io/badge/-Sql-grey?style=for-the-badge&logo=Mysql&logoColor=6296CC)](#)
 [![GIT](https://img.shields.io/badge/Git-grey.svg?style=for-the-badge&logo=Git)](#)
 [![LINUX](https://img.shields.io/badge/linux-grey.svg?style=for-the-badge&logo=Linux)](#)
