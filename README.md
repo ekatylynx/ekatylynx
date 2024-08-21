@@ -2,8 +2,7 @@
 
 My name is Kate     
 Student of the Faculty of Information Technology     
-I love writing code in JavaScript  
-Linux OS fan      
+I love writing code in JavaScript, React, TypeScript 
 
 ### Languages and Tools:
 [![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](#)
