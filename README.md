@@ -23,15 +23,15 @@ I love writing code in JavaScript, React, TypeScript
 <br />
 
 ----
-<a href="https://github.com/Hitomizavr">
-  <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hitomizavr&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hitomizavr&layout=compact&theme=nord" />
+<a href="https://github.com/ekatylynx">
+  <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ekatylynx&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ekatylynx&layout=compact&theme=nord" />
 </a>
 
-![animation](https://github.com/Hitomizavr/Hitomizavr/blob/main/github-contribution.svg)
+![animation](https://github.com/ekatylynx/ekatylynx/blob/main/github-contribution.svg)
 
 <!--
-**Hitomizavr/Hitomizavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ekatylynx/ekatylynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
