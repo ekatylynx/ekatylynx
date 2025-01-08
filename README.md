@@ -2,7 +2,9 @@
 
 My name is Kate     
 Student of the Faculty of Information Technology     
-I love writing code in JavaScript, React, TypeScript 
+I love writing code in JavaScript, React, TypeScript
+
+At the moment I am working on the Todo App project and developing the frontend and backend for it.
 
 ### Languages and Tools:
 [![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](#)
