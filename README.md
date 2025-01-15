@@ -30,6 +30,11 @@ At the moment I am working on the Todo App project and developing the frontend a
   <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ekatylynx&layout=compact&theme=nord" />
 </a>
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 ![animation](https://github.com/ekatylynx/ekatylynx/blob/main/github-contribution.svg)
 
 <!--
