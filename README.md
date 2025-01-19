@@ -39,13 +39,6 @@ Statistics for the last 7 days
 
 ---
 
-All time statistic
-<!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ekatylynx&theme=dark&hide_border=true&layout=compact&langs_count=10&range=all_time" />
-<!--END_SECTION:waka-->
-
----
-
 ![animation](https://github.com/ekatylynx/ekatylynx/blob/main/github-contribution.svg)
 
 <!--
